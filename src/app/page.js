@@ -7,7 +7,7 @@ export default function Home() {
         <Link className='text-primary font-semibold text-2xl' href=''>
         SM PIZZA
         </Link>
-        <nav className='flex gap-4 text-gray-400 text-[#fff]'>
+        <nav className='flex gap-4 text-gray-500 font-semibold '>
           <Link href={''}>Home</Link>
           <Link href={''}>Menu</Link>
           <Link href={''}>About</Link>
